@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | 🚀 Problem Solver | 🌟 Open Source Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4F46E5?style=for-the-badge)](https://rohitlokhandeportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4F46E5?style=for-the-badge)](https://my-portfolio-kappa-vert-30.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-lokhande-070262376/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Rohit6168)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitlokhande616@gmail.com)
@@ -156,7 +156,7 @@ I'm always interested in collaborating on exciting projects or discussing new op
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-4F46E5?style=for-the-badge)](https://rohitlokhandeportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-4F46E5?style=for-the-badge)](https://my-portfolio-kappa-vert-30.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-lokhande-070262376/)
 [![Email](https://img.shields.io/badge/Email-rohitlokhande616@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitlokhande616@gmail.com)
 

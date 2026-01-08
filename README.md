@@ -71,11 +71,26 @@ I'm a passionate **Full Stack Developer** specializing in building modern web ap
 
 <div align="center">
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit6168&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/Rohit6168">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohit6168&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohit6168&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit6168&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit6168&theme=tokyonight&hide_border=true)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rohit6168&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Rohit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohit6168&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/Rohit6168)
 
 </div>
 
